@@ -1,0 +1,25 @@
+{
+  "name": "@effy/ua-util",
+  "version": "1.0.0",
+  "description": "utils to test user agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodoroy/ua-util.git"
+  },
+  "keywords": [
+    "user",
+    "agent",
+    "effy",
+    "dodoroy"
+  ],
+  "author": "Effy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dodoroy/ua-util/issues"
+  },
+  "homepage": "https://github.com/dodoroy/ua-util#readme"
+}
